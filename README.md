@@ -1,4 +1,4 @@
-![App Screenshot](https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?w=1060&t=st=1687627405~exp=1687628005~hmac=f534f2bf407e6c22f8448231380f27eddd58846a76422cd743bbffac65e90384)
+![App Screenshot](https://media.licdn.com/dms/image/D5612AQHm8ghEYYhVCA/article-cover_image-shrink_423_752/0/1680969583493?e=1692835200&v=beta&t=OZLbG1tD8gvI1nqiIulw1uU0fZk_UYBwOQ3JBBxC8IM)
 # Data Science 101: Exploring the Depths of Data
 Welcome to my Data Science Journey repository, where I am excited to share my extensive knowledge and hands-on experience to help you delve into the fascinating world of data science. Together, we will embark on a technical adventure, unraveling the intricacies of data analysis and modeling. Join me as I guide you through the significant milestones I have accomplished and the invaluable insights I have gained.
 
