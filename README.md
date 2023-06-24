@@ -6,7 +6,7 @@
 # Data Science Journey: Exploring the Depths of Data
 Welcome to my Data Science Journey repository, where I am excited to share my extensive knowledge and hands-on experience to help you delve into the fascinating world of data science. Together, we will embark on a technical adventure, unraveling the intricacies of data analysis and modeling. Join me as I guide you through the significant milestones I have accomplished and the invaluable insights I have gained.
 
-![App Screenshot](https://raw.githubusercontent.com/ISAACRITHARSON/Data-Science-and-Statistical-Analyisis-Repository/main/assets/b.png)
+![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 
 ### Python Programming Essentials: Mastering Data Manipulation
