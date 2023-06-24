@@ -1,4 +1,4 @@
-![App Screenshot](https://img.freepik.com/free-vector/data-technology-network-lines-background_1017-19687.jpg?w=1380&t=st=1687621041~exp=1687621641~hmac=9247715237384c5faf2b61434a7872389bcf3e1545c864f994f54ae5895d3958)
+![App Screenshot](https://img.freepik.com/free-vector/abstract-digital-particles-technology-style-background_1017-24915.jpg?w=1380&t=st=1687621145~exp=1687621745~hmac=69e276ce3cd19fea1e361eb18f4aff2a371946601dd7969a43078b7389c14dfd)
 # Data Science Journey: Exploring the Depths of Data
 Welcome to my Data Science Journey repository, where I am excited to share my extensive knowledge and hands-on experience to help you delve into the fascinating world of data science. Together, we will embark on a technical adventure, unraveling the intricacies of data analysis and modeling. Join me as I guide you through the significant milestones I have accomplished and the invaluable insights I have gained.
 
