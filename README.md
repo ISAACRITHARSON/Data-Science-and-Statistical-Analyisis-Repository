@@ -1,4 +1,4 @@
-![App Screenshot](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3PKdNWD6UJobb_JDWV5elg.png)
+![App Screenshot](https://s3.amazonaws.com/utep-uploads/wp-content/uploads/sparkle-box/2020/12/09153348/OU-MBAn-2020-Q3-Skyscraper-Replacement-How-Data-Science-Can-Be-Used-for-Social-Good-header-111820-JG.jpg)
 # Data Science 101: Exploring the Depths of Data
 Welcome to my Data Science Journey repository, where I am excited to share my extensive knowledge and hands-on experience to help you delve into the fascinating world of data science. Together, we will embark on a technical adventure, unraveling the intricacies of data analysis and modeling. Join me as I guide you through the significant milestones I have accomplished and the invaluable insights I have gained.
 
