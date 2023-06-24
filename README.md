@@ -20,6 +20,8 @@ Statistics forms the bedrock of data science, enabling us to extract valuable in
 ### Machine Learning Algorithms: Empowering Predictive Analytics
 Machine learning algorithms lie at the core of data science, empowering us to make accurate predictions and uncover complex patterns in data. In this section, we will explore a wide range of supervised and unsupervised learning techniques. We will cover decision trees, random forests, support vector machines, K-means clustering, and dimensionality reduction. Through practical examples and code implementation, you will gain hands-on experience in training models, making accurate predictions, and evaluating their performance using metrics such as mean absolute error (MAE), mean squared error (MSE), R-squared score, and coefficient analysis.
 
+![App Screenshot](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3PKdNWD6UJobb_JDWV5elg.png)
+
 ### Recommendation Systems: Guiding Decision-making with Intelligent Insights
 In the final stage of our journey, we will delve into the intriguing realm of recommendation systems. We will explore content-based filtering, collaborative filtering, and hybrid approaches to provide personalized recommendations based on user preferences and item attributes. Using Python programming, we will build intelligent systems that leverage techniques such as TF-IDF vectorization and cosine similarity to deliver accurate and relevant recommendations.
 
