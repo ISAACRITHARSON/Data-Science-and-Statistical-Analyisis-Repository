@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://www.springboard.com/blog/wp-content/uploads/2022/05/data-science-life-cycle.png)
+![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/05/data-science-life-cycle.png)
 
 
 # Data Science Journey: Exploring the Depths of Data
