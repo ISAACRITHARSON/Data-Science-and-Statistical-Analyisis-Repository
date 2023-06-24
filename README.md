@@ -35,7 +35,7 @@ Throughout this repository, I will provide detailed code samples, in-depth expla
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
 
-## Key Libraries
+## Essential Libraries
 
 - Numpy
 - Scipy
