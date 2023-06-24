@@ -1,4 +1,4 @@
-![App Screenshot](https://img.freepik.com/free-vector/abstract-digital-particles-technology-style-background_1017-24915.jpg?w=1380&t=st=1687621145~exp=1687621745~hmac=69e276ce3cd19fea1e361eb18f4aff2a371946601dd7969a43078b7389c14dfd)
+![App Screenshot](https://img.freepik.com/free-vector/blue-3d-particles-background-design_1017-15410.jpg?w=1380&t=st=1687621501~exp=1687622101~hmac=13be88a9e319671a18039f5eb6d0c4321e9af3078e8b77b0686f870ac6f84593)
 # Data Science Journey: Exploring the Depths of Data
 Welcome to my Data Science Journey repository, where I am excited to share my extensive knowledge and hands-on experience to help you delve into the fascinating world of data science. Together, we will embark on a technical adventure, unraveling the intricacies of data analysis and modeling. Join me as I guide you through the significant milestones I have accomplished and the invaluable insights I have gained.
 
