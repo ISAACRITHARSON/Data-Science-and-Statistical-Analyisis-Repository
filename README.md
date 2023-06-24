@@ -54,7 +54,7 @@ Throughout this repository, I will provide detailed code samples, in-depth expla
 Matplotlib
 ## IDE
 
-Options: PyCharm, Jupyter Notebook, TensorFlow/Keras, Visual Studio Code, RStudio, Spyder
+Optional: PyCharm, Jupyter Notebook, TensorFlow/Keras, Visual Studio Code, RStudio, Spyder
 
 
 ## Hit Me up
