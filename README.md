@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://raw.githubusercontent.com/ISAACRITHARSON/Data-Science-and-Statistical-Analyisis-Repository/main/assets/data.gif)
+![App Screenshot](https://raw.githubusercontent.com/ISAACRITHARSON/Data-Science-and-Statistical-Analyisis-Repository/main/assets/data.png)
 
 
 # Data Science Journey: Exploring the Depths of Data
