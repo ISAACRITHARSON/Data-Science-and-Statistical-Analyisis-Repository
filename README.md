@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fdata-science%2Fdata-science-process%2F&psig=AOvVaw3n5KW6I5sQRi5j045t1WcM&ust=1687699768834000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiS_uqB3P8CFQAAAAAdAAAAABAD)
+![App Screenshot](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/a11a2554-7ce8-7054-20a3-8320881b80c8?t=1618902868781)
 
 
 # Data Science Journey: Exploring the Depths of Data
