@@ -1,4 +1,4 @@
-![App Screenshot](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/302746876/original/0544480b43315f01cbe65e38b6d2e598584212d3/provide-data-analytics-can-also-be-visual-graphs-etc.png)
+![App Screenshot](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fUgqcD4ZI1N5_QuaTSb75g.jpeg)
 # Data Science 101: Exploring the Depths of Data
 Welcome to my Data Science Journey repository, where I am excited to share my extensive knowledge and hands-on experience to help you delve into the fascinating world of data science. Together, we will embark on a technical adventure, unraveling the intricacies of data analysis and modeling. Join me as I guide you through the significant milestones I have accomplished and the invaluable insights I have gained.
 
