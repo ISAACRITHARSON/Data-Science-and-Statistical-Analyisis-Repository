@@ -11,7 +11,7 @@ In this section, I will equip you with essential Python programming skills for e
 ### Unveiling Insights: Advanced Data Manipulation and Analysis Techniques
 Building upon Python proficiency, we will dive into advanced techniques for extracting meaningful insights from complex datasets. I will guide you through essential data manipulation and analysis methods, including finding maximum values, calculating means, filtering and sorting data, handling missing values, detecting duplicates, and identifying outliers. Through practical exercises, you will gain a deep understanding of these techniques and their practical applications in real-world scenarios.
 
-![App Screenshot](https://github.com/ISAACRITHARSON/Data-Science-and-Statistical-Analyisis-Repository/blob/main/assets/stonks.gif?raw=true)
+![App Screenshot](https://img.freepik.com/free-photo/statistic-bars_23-2148148335.jpg?w=1380&t=st=1687622234~exp=1687622834~hmac=ea4466c5d466e1996f97738c6f4075a1b57d6aac8139e5afd51e1f74de160339)
 
 ### Visual Analytics: Communicating Data with Impact
 Data visualization is a powerful tool for conveying complex information in a visually appealing and comprehensible manner. In this section, we will explore various visualization techniques using Python libraries. We will cover a wide range of visualizations, including bar charts, pie charts, scatter plots, line plots, box plots, and histograms. By mastering these techniques, you will be able to create compelling visual representations that reveal intricate patterns and trends hidden within the data.
