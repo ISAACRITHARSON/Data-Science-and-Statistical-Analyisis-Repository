@@ -34,10 +34,6 @@ Throughout this repository, I will provide detailed code samples, in-depth expla
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
 
-![Logo](https://raw.githubusercontent.com/ISAACRITHARSON/Data-Science-and-Statistical-Analyisis-Repository/main/assets/kagglef.png)
-
-
-
 ## Key Libraries
 
 - Numpy
