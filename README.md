@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://raw.githubusercontent.com/ISAACRITHARSON/Data-Science-and-Statistical-Analyisis-Repository/main/assets/dataf.png)
+![App Screenshot](https://www.springboard.com/blog/wp-content/uploads/2022/05/data-science-life-cycle.png)
 
 
 # Data Science Journey: Exploring the Depths of Data
