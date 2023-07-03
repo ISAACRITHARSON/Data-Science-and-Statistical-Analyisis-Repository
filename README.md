@@ -5,7 +5,7 @@ Welcome to my Data Science Journey repository, where I am excited to share my ex
 ![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 
-### Python Programming Essentials: Mastering Data Manipulatio
+### Python Programming Essentials: Mastering Data Manipulation
 In this section, I will equip you with essential Python programming skills for effective data manipulation. You will gain proficiency in working with key data structures such as dictionaries, lists, sets, and tuples. We will explore advanced techniques for matrix operations and demonstrate how to read and process data from .csv files. By the end of this section, you will have a solid foundation in Python programming, enabling you to handle and transform data effortlessly.
 
 ### Unveiling Insights: Advanced Data Manipulation and Analysis Techniques
