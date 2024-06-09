@@ -52,5 +52,5 @@ Optional: PyCharm, Jupyter Notebook, TensorFlow/Keras, Visual Studio Code, RStud
 
 ## Hit Me up
 
-What did you learn while learning this course? What challenges did you face ?, write to me isaacritharson@karunya.edu.in
+What did you learn while learning this course? What challenges did you face ?, Write to me isaacritharson@karunya.edu.in
 
